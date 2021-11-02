@@ -1,2 +1,4 @@
-# Machine-Translation-Franch2English
-French to English Machine Translation Project based on  as a part of NLP Revolution 
+# Machine-Translation-French2English
+French to English Machine Translation Project 
+It's based on Deep Learning Neural Network of Long short-Term Memory
+
